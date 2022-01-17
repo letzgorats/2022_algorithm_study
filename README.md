@@ -33,9 +33,9 @@
 
 ### 🏔 Greedy [Link](Greedy)
 
-### 🏔 something [Link](something)
+### 🏔 DFS_BFS [Link](DFS_BFS)
 
-### 🏔 something [Link](something)
+### 🏔 Implementation [Link](Implementation)
 
 ### 🏔 something [Link](something)
 
@@ -45,9 +45,9 @@
 
 | **과목** | **일자** | **주차** | **주제**|
 | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------| 
-| 그리디    | 2022/01/17~01/23 | 1주차    | [Greedy](Greedy/Greedy_letzgorats.md)<br>[Greedy](Greedy/Greedy_choison.md)<br> [Greedy](Greedy/Greedy_kimhayeon00.md)<br>|
-|something | 2022/01/24~01/30 | 2주차 | [Red-BlackTree](DataStructure/Red-BlackTree.md)<br>[Hash Table](DataStructure/HashTable.md)<br>[Graph1](DataStructure/Graph.md)<br>[Graph2](DataStructure/MinimumSpanningTree.md) |
-| something      | 2022/01/31~02/07 | 3주차   | GET, POST, DELETE 방식<br>Rest and RestAPI<br>HTTP와 HTTPS의 차이점 & HTTP 문제점<br>SSL, 공개키, 대칭키 <br> TCP 3 way-handshake<br>TCP와 UDP의 차이점 + QUIC<br>DNS round robin 방식<br>웹 통신의 큰 흐름|
-<!-- | 운영체제      | 2022/02/08~02/14 | 4주차   ||
+| 그리디    | 2022/01/17~01/23 | 1주차    | [Greedy_letzgorats](Greedy/Greedy.md)<br>[Greedy_choison](Greedy/Greedy.md)<br> [Greedy_kimhayeon00](Greedy/Greedy.md)<br>|
+|something | 2022/01/24~01/30 | 2주차 | [DFS_BFS_letzgorats](DFS_BFS/DFS_BFS.md)<br>[DFS_BFS_choison](DFS_BFS/DFS_BFS.md)<br>[DFS_BFS_kimhayeon00](DFS_BFS/DFS_BFS.md)<br>|
+| something      | 2022/01/31~02/07 | 3주차   | [Implementation_letzgorats](Implementation/Implementation.md)<br>[Implementation_choison](Implementation/Implementation.md)<br>[Implementation_kimhayeon00](Implementation/Implementation.md)<br>|
+<!-- | something      | 2022/02/08~02/14 | 4주차   ||
 | something  | 2022/01/01 | 5주차   ||  -->
 
